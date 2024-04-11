@@ -8,4 +8,4 @@ int main(){
 return false;
 }
 
-alias enviaGit="git add . && git commit -m 'update' && git push"
+// alias enviaGit="git add . && git commit -m 'update' && git push"

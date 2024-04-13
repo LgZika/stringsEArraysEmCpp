@@ -12,7 +12,7 @@ int main(){
         if(word[i]=='a'){
             word[i] = 'a';
         }
-        cout << "oi" << endl;
+        cout << i << endl;
     }
     cout << word << endl;
 return false;

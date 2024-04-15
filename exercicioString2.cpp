@@ -13,6 +13,8 @@ int main(){
     word3 = word1 + " " + word2;
 
     cout << "Nova palavra: " << word3.c_str() << endl;
+    // ou
+    cout << "Nova palavra: " + word1 + " " + word2 << endl;
     
 return false;
 }
